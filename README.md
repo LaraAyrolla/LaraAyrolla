@@ -18,8 +18,6 @@
 - 📚 Bookworm and polyglot
 - 🎹 Musician
 
-<hr>
-
 <p align="center">
   Visitor Count!<br>
   <img src="https://profile-counter.glitch.me/LaraAyrolla/count.svg" />
