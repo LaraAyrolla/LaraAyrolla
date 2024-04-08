@@ -34,11 +34,11 @@
 <hr>
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraAyrolla&layout=compact&theme=radical" alt="Lara's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LaraAyrolla&&show_icons=true&theme=radical&line_height=27&v=5" alt="Lara's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaraAyrolla&&show_icons=true&theme=radical&line_height=27&v=5" alt="Lara's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraAyrolla&layout=compact&theme=radical" alt="Lara's GitHub Stats"/>
 </p>
 
 <hr>
