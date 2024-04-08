@@ -1,5 +1,5 @@
 
-### Hello, world! 👋
+### Hello, world! 👋🏻
 
 <br>
 <p align="center">
