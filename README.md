@@ -1,4 +1,8 @@
-<p align="right">
+
+### Hello, world! 👋
+
+<br>
+<p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -16,9 +20,9 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
+<br>
 
-### Hello, world! 👋
-- 👧🏼 My name is Lara. I'm a 22-year-old Brazilian woman
+- 👧🏼 My name is Lara! I'm a 22-year-old Brazilian woman
 - 💻 Full-stack developer
 - 🎓 Technical course in Computer Science (CEFET-MG)
 - ⏳ Bachelor's Degree in Information Systems (Centro Universitário UNA)
